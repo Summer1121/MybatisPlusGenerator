@@ -1,7 +1,7 @@
 ## 使用mybatisPlus制作的逆向工程工具
 
 - 简化了配置信息，配置通用化
-- 大部分情况下只需要修改generation/src/main/java.CodeGenerator类中的部分配置
+- 大部分情况下只需要修改generation/src/main/java.CodeGenerator类中的如下配置
     ```java
      /**
       * TODO 需要根据项目而变化的内容
