@@ -1,0 +1,30 @@
+/generation/target/
+!.mvn/wrapper/maven-wrapper.jar
+src/
+!generation/src
+Desktop.ini
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.mvn/
+catalina.base_IS_UNDEFINED/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
