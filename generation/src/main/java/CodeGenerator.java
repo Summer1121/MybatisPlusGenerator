@@ -191,7 +191,7 @@ public class CodeGenerator {
 		gc.setAuthor(author);
 		gc.setOpen(false);
 		gc.setBaseResultMap(true);//设置生成baseResultMap
-		gc.setSwagger2(true); //实体属性 Swagger2 注解
+		gc.setSwagger2(false); //实体属性 Swagger2 注解，这样会生成自动注解
 		return gc;
 	}
 
